@@ -1,98 +1,43 @@
 ![Banner as Junior Developer](/assets/banner.png)
+#
+* 🌍  I'm based in Jalisco, MEXICO.
+* 🍎  I worked at food industries for 17 years as Ind. Engineer.
+* 💞️  I started to code at 04/2024
+* 👀  I interested in Python development
+* 🌱  I'm currently searching for my first IT's job.
+* 📫  You can reach me at:
 
-##  
-# [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_G._Salazar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/crohum) [![Web](https://img.shields.io/badge/Portfolio-Crohum_Dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]('')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* 🌍  I'm based in Jalisco, MEXICO
-* 🍎  I'm 
-
-
-
-
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn__-Alejandro_García_Salazar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/crohum)
+# [![Web](https://img.shields.io/badge/Portfolio-Crohum_Dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]('') [![](https://img.shields.io/badge/@_Mail-crohum@hotmail.com-1877F2?style=for-the-badge&logo=Mail&logoColor=white&labelColor=101010)]('')
+</br>
 
 ## 
-# Technologies & Skills <img src="hello_world.webp" alt="Say hello" width="250"/> 
+# Technologies & Skills.
 
+### Backend & Database.
+<img src="/assets/technologies/python.png" alt="Python" width="250"/> <img src="/assets/technologies/mysql.png" alt="MySql" width="250"/>
 
+#
+### Tools & Methodologies.
+<img src="/assets/technologies/markdown.png" alt="Markdown" width="250"/> <img src="/assets/technologies/git.png" alt="Git" width="250"/> <img src="/assets/technologies/github.png" alt="GitHub" width="250"/> <img src="/assets/technologies/trello.png" alt="Trello" width="250"/> <img src="/assets/technologies/agile-lean.png" alt="Agile-Lean" width="250"/>
 
+# 
+#
+<img src="/assets/hello_world.webp" alt="hello world" width="250"/> 
+<a href="https://github.com/crohum" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crohum&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="/assets/skills.webp" alt="Skills" width="300"/>
-
-
-
-
-
-
-### Skills
-
-
-### Badges
-
-<b>My GitHub Stats</b>
+#
+#
+## <b>My GitHub Stats</b>
 
 <img src="/assets/coding.webp" alt="Coding" width="200"/> <a href="http://www.github.com/crohum"><img src="https://github-readme-streak-stats.herokuapp.com/?user=crohum&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/crohum" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crohum&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+#
+#
+## <b>Top Repositories</b>
 
-<b>Top Repositories</b>
+<div width="100%" align="center"><a href="https://github.com/crohum/portfolio_web" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=crohum&repo=portfolio_web&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> <img src="/assets/skills.webp" alt="Skills" width="150"/>
 
-<div width="100%" align="center"><a href="https://github.com/crohum/portfolio_web" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=crohum&repo=portfolio_web&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crohum/) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+#
+#
+# [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crohum/) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
