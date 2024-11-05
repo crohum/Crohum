@@ -15,7 +15,7 @@
 # Technologies & Skills.
 
 ### Backend & Database.
-<img src="/assets/technologies/python.png" alt="Python" width="250"/> <img src="/assets/technologies/mysql.png" alt="MySql" width="250"/>
+<img src="/assets/technologies/python.png" alt="Python" width="100"/> <img src="/assets/technologies/mysql.png" alt="MySql" width="100"/>
 
 #
 ### Tools & Methodologies.
