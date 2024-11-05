@@ -15,11 +15,11 @@
 # <b>Technologies & Skills.</b>
 
 ### Backend & Database.
-<img src="/assets/technologies/python.png" alt="Python" width="30"/> <img src="/assets/technologies/mysql.png" alt="MySql" width="30"/>
+<img src="/assets/technologies/python.png" alt="Python" width="40"/> <img src="/assets/technologies/mysql.png" alt="MySql" width="40"/>
 
 #
 ### Tools & Methodologies.
-<img src="/assets/technologies/markdown.png" alt="Markdown" width="30"/> <img src="/assets/technologies/git.png" alt="Git" width="30"/> <img src="/assets/technologies/github.png" alt="GitHub" width="30"/> <img src="/assets/technologies/trello.png" alt="Trello" width="30"/> <img src="/assets/technologies/agile-lean.png" alt="Agile-Lean" width="30"/>
+<img src="/assets/technologies/markdown.png" alt="Markdown" width="40"/> <img src="/assets/technologies/git.png" alt="Git" width="40"/> <img src="/assets/technologies/github.png" alt="GitHub" width="40"/> <img src="/assets/technologies/trello.png" alt="Trello" width="40"/> <img src="/assets/technologies/agile-lean.png" alt="Agile-Lean" width="40"/>
 
 #
 # 
