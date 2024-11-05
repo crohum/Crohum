@@ -15,11 +15,11 @@
 # <b>Technologies & Skills.</b>
 
 ### Backend & Database.
-<img src="/assets/technologies/python.png" alt="Python" width="50"/> <img src="/assets/technologies/mysql.png" alt="MySql" width="50"/>
+<img src="/assets/technologies/python.png" alt="Python" width="30"/> <img src="/assets/technologies/mysql.png" alt="MySql" width="30"/>
 
 #
 ### Tools & Methodologies.
-<img src="/assets/technologies/markdown.png" alt="Markdown" width="50"/> <img src="/assets/technologies/git.png" alt="Git" width="50"/> <img src="/assets/technologies/github.png" alt="GitHub" width="50"/> <img src="/assets/technologies/trello.png" alt="Trello" width="50"/> <img src="/assets/technologies/agile-lean.png" alt="Agile-Lean" width="50"/>
+<img src="/assets/technologies/markdown.png" alt="Markdown" width="30"/> <img src="/assets/technologies/git.png" alt="Git" width="30"/> <img src="/assets/technologies/github.png" alt="GitHub" width="30"/> <img src="/assets/technologies/trello.png" alt="Trello" width="30"/> <img src="/assets/technologies/agile-lean.png" alt="Agile-Lean" width="30"/>
 
 #
 # 
@@ -29,7 +29,7 @@
 <a href="https://github.com/crohum" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crohum&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 #
-<img src="/assets/coding.webp" alt="Coding" width="200"/> <a href="http://www.github.com/crohum"><img src="https://github-readme-streak-stats.herokuapp.com/?user=crohum&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img src="/assets/coding.webp" alt="Coding" width="180"/> <a href="http://www.github.com/crohum"><img src="https://github-readme-streak-stats.herokuapp.com/?user=crohum&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 #
 #
