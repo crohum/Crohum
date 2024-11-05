@@ -15,28 +15,26 @@
 # Technologies & Skills.
 
 ### Backend & Database.
-<img src="/assets/technologies/python.png" alt="Python" width="100"/> <img src="/assets/technologies/mysql.png" alt="MySql" width="100"/>
+<img src="/assets/technologies/python.png" alt="Python" width="50"/> <img src="/assets/technologies/mysql.png" alt="MySql" width="50"/>
 
 #
 ### Tools & Methodologies.
-<img src="/assets/technologies/markdown.png" alt="Markdown" width="250"/> <img src="/assets/technologies/git.png" alt="Git" width="250"/> <img src="/assets/technologies/github.png" alt="GitHub" width="250"/> <img src="/assets/technologies/trello.png" alt="Trello" width="250"/> <img src="/assets/technologies/agile-lean.png" alt="Agile-Lean" width="250"/>
+<img src="/assets/technologies/markdown.png" alt="Markdown" width="50"/> <img src="/assets/technologies/git.png" alt="Git" width="50"/> <img src="/assets/technologies/github.png" alt="GitHub" width="50"/> <img src="/assets/technologies/trello.png" alt="Trello" width="50"/> <img src="/assets/technologies/agile-lean.png" alt="Agile-Lean" width="50"/>
 
 # 
 #
-<img src="/assets/hello_world.webp" alt="hello world" width="250"/> 
+<img src="/assets/hello_world.webp" alt="hello world" width="300"/> 
 <a href="https://github.com/crohum" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crohum&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 #
 #
 ## <b>My GitHub Stats</b>
-
 <img src="/assets/coding.webp" alt="Coding" width="200"/> <a href="http://www.github.com/crohum"><img src="https://github-readme-streak-stats.herokuapp.com/?user=crohum&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 #
 #
 ## <b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/crohum/portfolio_web" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=crohum&repo=portfolio_web&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> <img src="/assets/skills.webp" alt="Skills" width="150"/>
+<div width="100%" align="center"><a href="https://github.com/crohum/portfolio_web" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=crohum&repo=portfolio_web&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> <img src="/assets/skills.webp" alt="Skills" width="100"/>
 
 #
 #
