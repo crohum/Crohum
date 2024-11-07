@@ -1,7 +1,7 @@
 ![Banner as Junior Developer](/assets/banner.png)
 #
 * 🌍  I'm based in Jalisco, MEXICO.
-* 🍎  I worked at food industries for 17 years as Ind. Engineer.
+* 🍎  I worked at food industries for 17 years as Industrial Engineer.
 * 💞️  I started to code at 04/2024
 * 👀  I interested in Python development
 * 🌱  I'm currently searching for my first IT's job.
@@ -34,7 +34,7 @@
 #
 #
 ## <b>Top Repositories</b>
-<img src="/assets/skills.webp" alt="Skills" width="200"/>[<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=crohum&repo=portfolio_web&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> ](https://github.com/crohum/portfolio_web) [<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=crohum&repo=portfolio_web&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> ](https://github.com/crohum/portfolio_web) [<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=crohum&repo=portfolio_web&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> ](https://github.com/crohum/portfolio_web)
+<img src="/assets/skills.webp" alt="Skills" width="200"/>[<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=crohum&repo=portfolio_web&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> ](https://github.com/crohum/portfolio_web) [<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=crohum&repo=portfolio_web&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> ](https://github.com/crohum/portfolio_web) [<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=crohum&repo=portfolio_web&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> ](https://github.com/crohum/portfolio_web)
 
 #
 #
