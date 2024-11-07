@@ -2,9 +2,10 @@
 #
 * 🌍  I'm based in Jalisco, MEXICO.
 * 🍎  I worked at food industries for 17 years as Industrial Engineer.
-* 💞️  I started to code at 04/2024
-* 👀  I interested in Python development
+* 💞️  I started to code at 04/2024.
+* 👀  I interested in Python development.
 * 🌱  I'm currently searching for my first IT's job.
+* 📘  I'm open to learn any other technology.
 * 📫  You can reach me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn__-Alejandro_García_Salazar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/crohum)
