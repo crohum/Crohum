@@ -34,7 +34,7 @@
 #
 #
 ## <b>Top Repositories</b>
-<img src="/assets/skills.webp" alt="Skills" width="200"/>[<img align="left" width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=crohum&repo=portfolio_web&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> ](https://github.com/crohum/portfolio_web)
+<img src="/assets/skills.webp" alt="Skills" width="200"/>[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=crohum&repo=portfolio_web&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> ](https://github.com/crohum/portfolio_web)
 
 #
 #
