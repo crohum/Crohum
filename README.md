@@ -14,6 +14,7 @@
 # </br>
 
 
+#
 # <b>Technologies & Skills.</b>
 
 ### Backend & Database.
@@ -40,8 +41,10 @@
 #
 #
 ## <b>Top Repositories</b>
-<img src="/assets/skills.webp" alt="Skills" width="200"/>[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=crohum&repo=portfolio_web&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />](https://github.com/crohum/portfolio_web) [<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=crohum&repo=portfolio_web&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />](https://github.com/crohum/portfolio_web)
+<img src="/assets/skills.webp" alt="Skills" width="200"/>[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=crohum&repo=portfolio_web&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />](https://github.com/crohum/portfolio_web)
 
-#
+# </br>
+
+
 #
 # [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crohum/) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
