@@ -11,7 +11,7 @@
 
     [![LinkedIn](https://img.shields.io/badge/LinkedIn__-Alejandro_García_Salazar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/crohum)
   
-    [![Web](https://img.shields.io/badge/Portfolio-Crohum_Dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]('https://alejandrogs.reflex.run/')
+    [![Web](https://img.shields.io/badge/Portfolio-Crohum_Dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://alejandrogs.reflex.run/)
     [![](https://img.shields.io/badge/@_Mail-crohum@hotmail.com-1877F2?style=for-the-badge&logo=Mail&logoColor=white&labelColor=101010)](mailto:crohum@hotmail.com)
     
 #
